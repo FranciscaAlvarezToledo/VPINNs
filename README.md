@@ -4,6 +4,7 @@
 Resolver la ecuación diferencial
 
 $-\Delta u = f(x), x \in \Omega =(1,0)$
+
 $u|_{\partial \Omega} = 0.$
 
 La Formulación variacional viene dada por
