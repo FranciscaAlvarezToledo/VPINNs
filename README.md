@@ -3,8 +3,8 @@
 ## Problema
 Resolver la ecuación diferencial
 
-$-\Delta u &= f(x), \hspace{1cm} x \in \Omega =(1,0) \\
-u|_{\partial \Omega} &= 0.$
+$-\Delta u = f(x), x \in \Omega =(1,0)$
+$u|_{\partial \Omega} = 0.$
 
 La Formulación variacional viene dada por
 $\int_{\Omega} \nabla u \nabla v \, dx - \int_{\partial \Omega} u\, v \, ds= \int_{\Omega} f\, v \, dx,$
